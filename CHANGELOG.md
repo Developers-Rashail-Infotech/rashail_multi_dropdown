@@ -14,3 +14,7 @@
 ## 0.0.1+4
 
 * TODO: Updated documentation on github.
+
+## 0.0.1+5
+
+* TODO: Updated package dependencies.
