@@ -1,17 +1,17 @@
 name: rashail_multi_dropdown
 description: rashail_multi_dropdown used multi_dropdown with some improvements to enable users to use multi select dropdown features in their flutter applications
-version: 0.0.1+4
+version: 0.0.1+5
 homepage: "https://github.com/Developers-Rashail-Infotech/rashail_multi_dropdown/"
 
 environment:
-  sdk: ">=2.18.6 <3.0.0"
+  sdk: ">=2.18.6 <4.0.0"
   flutter: ">=2.5.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  plugin_platform_interface: ^2.0.2
-  http: ^0.13.5
+  plugin_platform_interface: ^2.1.5
+  http: ^1.1.0
 
 dev_dependencies:
   flutter_test:
